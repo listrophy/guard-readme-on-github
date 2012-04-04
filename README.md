@@ -14,7 +14,7 @@ Gemfile:
 
 <pre>
 group :development do
-  gem 'guard
+  gem 'guard'
   gem 'guard-readme-on-github'
 end
 </pre>
